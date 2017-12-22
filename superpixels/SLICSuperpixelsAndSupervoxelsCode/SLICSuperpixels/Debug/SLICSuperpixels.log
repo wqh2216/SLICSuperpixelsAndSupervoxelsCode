@@ -1,0 +1,32 @@
+﻿  SLIC.cpp
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(341): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(342): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(401): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(402): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(423): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(426): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(466): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(467): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(468): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(493): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(497): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(500): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(577): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(578): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(579): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(580): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(732): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(733): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(734): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(735): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(736): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(737): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1202): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1202): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1249): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1293): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1293): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1336): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\code\superpixels\slicsuperpixelsandsupervoxelscode\slicsuperpixels\slic.cpp(1336): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  SLICSuperpixels.vcxproj -> F:\code\superpixels\SLICSuperpixelsAndSupervoxelsCode\Debug\SLICSuperpixels.exe
+  SLICSuperpixels.vcxproj -> F:\code\superpixels\SLICSuperpixelsAndSupervoxelsCode\Debug\SLICSuperpixels.pdb (Full PDB)
